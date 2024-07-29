@@ -3,5 +3,6 @@ banana
 peach
 apple
 tomato
-strawberry
+melon
+orange
 
